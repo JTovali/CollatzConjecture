@@ -2,7 +2,7 @@
 
 # Description:
 This project is about the Collatz Conjecture. An intriguing unsolved problem in mathematics defined by a simple rule:
-Take any positive integer n, divide it by 2 if it is even, or compute 3n+1 if it is odd, and repeat. The sequence can grow unpredictably before reaching 1. The purpose of this project is to compute Collatz sequence lengths for very large input ranges and to identify the top 10 smallest integers, but with the longest sequence length. This project features 9 distinct implementations of the Collatz Conjecture, including 4 recursive versions, and 5 iterative versions.
+Take any positive integer n, divide it by 2 if it is even, or compute 3n+1 if it is odd, and repeat. The sequence can grow unpredictably before reaching 1. The purpose of this project is to compute Collatz sequence lengths for very large input ranges and to identify the top 10 smallest integers, but with the longest sequence length. This project features 5 distinct implementations of the Collatz Conjecture, including 2 recursive versions, and 3 iterative versions.
 
 
 # Languages used in Collatz Conjecture project:
