@@ -15,7 +15,7 @@ Take any positive integer n, divide it by 2 if it is even, or compute 3n+1 if it
 # Files included:
 ```
 	- Python 
-	- Julia        / juliaRecursed
+	- Julia        / juliaRecursion
 	- Rust/collatz / rustRecursion/collatz 
 ```
 # ----------------------------------------------------------------
